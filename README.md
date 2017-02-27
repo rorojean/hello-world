@@ -1,2 +1,2 @@
 # hello-world
-sample repository for Robyn Olsonii
+sample repository for Robyn Olson
